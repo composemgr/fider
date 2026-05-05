@@ -50,9 +50,9 @@ See `docker-compose.yaml` for complete list of configurable options.
 
 ## 📂 Volumes
 
-- `./rootfs/data/fider` - Data storage
-- `./rootfs/config/fider` - Data storage
-- `./rootfs/data/db/postgres/fider` - Data storage
+- `./volumes/data/fider` - Data storage
+- `./volumes/config/fider` - Data storage
+- `./volumes/data/db/postgres/fider` - Data storage
 
 ## 🔐 Security
 
